@@ -1,7 +1,7 @@
 {
-  "name": "design-pattern-react",
+  "name": "@learning-snippets/23-design-patterns-typescript-react",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
