@@ -1,5 +1,8 @@
 # DESIGN PATTERN + TypeScript + React
 
+  > **IMPORTANT**! - This repositoy is **Work-In-Progress**. It is neither stable or anything close to its finale stage.
+  Please, don't use it as long as it has a WIP tag.
+
 ## TL;DR
 
 - Singleton
