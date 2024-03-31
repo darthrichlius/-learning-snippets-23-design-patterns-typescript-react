@@ -13,7 +13,7 @@
 
 ## PURPOSE
 
-This repository is part of a global initiative called `Learning Snippets`. It is a personal initiave which goal is to provide ready-to-use snippets or as a source of inspiration for better programming.
+This repository is part of a global initiative called `Better Software Design Explained`. It is a personal initiave which goal is to provide ready-to-use snippets or as a source of inspiration for better programming.
 
 This repository contains a list of snippets around Design Patterns in the context of Javascript (TypeScript) and React.
 
